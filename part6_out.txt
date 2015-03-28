@@ -1,0 +1,9 @@
+Question 1 :
+4 genes communs aux 33 espèces (nad6 nad4L cox3 cox1)
+
+Question 2 :
+3 genes communs aux 33 espèces (nad6 nad4L cox1)
+
+Question 3 : genes présents dans XXX avec plusieurs copies par rapport à Arabidopsis_thaliana
+8 genes avec 2 copies : atp6-2 rpl2 cob nad9 atp6-1 ccb203 rpl5 cox1
+1 genes avec 4 copies : nad4

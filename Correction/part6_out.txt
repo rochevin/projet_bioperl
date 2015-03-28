@@ -1,0 +1,13 @@
+get_common_genes from summary.csv
+get_XXX_genes from XXX_blast.csv
+get_XXX_At_genes from XXX_blast.csv
+
+Question 1 : 
+4 genes communs aux 33 espèces (cox1 cox3 nad4L nad6)
+
+Question 2 : 
+3 (cox1 nad4L nad6 ) gènes communs présents dans XXX, 1 (cox3 ) gènes communs manquant dans XXX
+
+Question 3 : genes présents dans XXX avec plusieurs copies par rapport à Arabidopsis thaliana
+8 genes avec 2 copies : atp6-1 atp6-2 ccb203 cob cox1 nad9 rpl2 rpl5 
+1 genes avec 4 copies : nad4 
